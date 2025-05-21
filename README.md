@@ -1,4 +1,4 @@
-# Awesome Events Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Events Mind Maps](https://mindmapai.app/mind-maps/events) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Plan and execute impactful events with project management and mind maps AI to coordinate tasks, timelines, and team roles effortlessly. Mind maps AI helps visualize event structures, streamline collaboration, and ensure every detail contributes to a successful and memorable experience.
 
